@@ -1,13 +1,13 @@
 {
-    "wait": "_Wait a minute nigger_",
+    "wait": "_Wait a minute brother_",
     "error": {
-        "Iv": "Dasar ireng,ngasih link gajelas",
-        "api": "Sorry nigger but my api not support for now"
+        "Iv": "this is not link,please give me real link brother!",
+        "api": "Sorry brother but my api not support for now"
     },
-    "OnlyGrup": "Ireng gajelas make cmd grup",
-    "OnlyPM": "Jawa stres pake cmd private",
-    "GrupAdmin": "You should be admin NIGGER",
-    "BotAdmin": "Adminin aku dulu dasar jawa",
-    "OnlyOwner": "Just owner can use this cmd nigger",
+    "OnlyGrup": "use this command on a group!",
+    "OnlyPM": "use this link on a private message!",
+    "GrupAdmin": "You should be admin brother xD",
+    "BotAdmin": "Add me to be admin and i Will do this command",
+    "OnlyOwner": "Just owner can use this command brother",
     "OnlyPrem": "Beli pulau dapat premium🤓"
 }
